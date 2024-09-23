@@ -10,6 +10,7 @@ namespace _01_HolaMundo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ola k ase");
         }
     }
 }
