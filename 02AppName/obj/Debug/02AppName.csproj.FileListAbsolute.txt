@@ -1,0 +1,7 @@
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\bin\Debug\02AppName.exe.config
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\bin\Debug\02AppName.exe
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\bin\Debug\02AppName.pdb
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\obj\Debug\02AppName.csproj.AssemblyReference.cache
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\obj\Debug\02AppName.csproj.CoreCompileInputs.cache
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\obj\Debug\02AppName.exe
+C:\Users\Prog1\Desktop\udemy\C#\02AppName\obj\Debug\02AppName.pdb
